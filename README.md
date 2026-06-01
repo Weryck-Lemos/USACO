@@ -1,0 +1,3 @@
+# USACO Guide Solutions
+
+This repository is dedicated to storing and organizing my solutions to the problems from the United States of America Computing Olympiad, serving as a personal record of my progress in competitive programming. Gathered here are codes developed primarily in C++, focusing on time and memory efficiency, which cover the challenges proposed in the official contests and study topics from the [USACO Guide](https://usaco.guide/). The main objective of this space is to consolidate my practical learning in algorithms and data structures, document the logic applied to solve each problem, and provide a clean, straightforward reference for both my future reviews and to help other programmers who are walking the same olympiad path.
